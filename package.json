@@ -1,0 +1,20 @@
+{
+  "name": "ionic-page-transitions",
+  "version": "1.0.0",
+  "description": "Page transitions for Ionic apps",
+  "main": "dist/index.js",
+  "author": "Gustav Bylund",
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {},
+  "devDependencies": {
+    "@angular/common": "^4.4.1",
+    "@angular/compiler": "^4.4.1",
+    "@angular/compiler-cli": "^4.4.1",
+    "@angular/core": "^4.4.1",
+    "ionic-angular": "^3.6.1",
+    "rxjs": "^5.4.3",
+    "tslint": "^5.7.0",
+    "typescript": "^2.5.2"
+  }
+}
