@@ -1,6 +1,6 @@
 {
   "name": "ionic-page-transitions",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Page transitions for Ionic apps",
   "main": "dist/index.js",
   "author": "Gustav Bylund",
