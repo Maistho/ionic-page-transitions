@@ -25,3 +25,4 @@ export class MyApp {
     config.setTransition('md-transition', MDTransition)
   }
 }
+```
